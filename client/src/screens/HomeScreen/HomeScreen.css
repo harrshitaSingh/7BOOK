@@ -1,0 +1,12 @@
+.posts {
+  width: 70%;
+}
+
+@media (max-width: 850px) {
+  .mainCont {
+    flex-direction: column;
+  }
+  .posts {
+    width: 70%;
+  }
+}
