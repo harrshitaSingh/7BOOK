@@ -1,36 +1,36 @@
-# 7Book
+<h1 align="center">Hi 👋, I'm Harshita Singh</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-Live Link: https://sevenbook.herokuapp.com/
-## Description
-7Book is a Book Exchange Website in which users can Post the book they want to exchange along with their interested books. Book lovers can meet readers with similar interests according to nearest Location and Swap books with them <br><br>
-This web application is built on MERN Stack. 
-## Some Libraries Used:
-### Frontend:
-* React Bootstrap: For quick designing
-* React Alert: For Showing Alerts
-* React Geolocated: For knowing User's Location
-* React Router Bootstrap: For adding links to Componens
-* React Fontawesome: For Icons
-* Axios: For making requests to Backend
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Backend
-* Bcrypt: For Password Encryption and Comparison
-* Cloudinary: For Storing Images
-* DataURI and Multer: For Handling Images & Converting it to String
-* jsonwebtoken: For Authentication and Authorization
+- 🔭 I’m currently working on a Digital Resume Builder  
+- 🌱 I’m currently learning advanced Node.js, TypeScript  
+- 💬 Ask me about React, Firebase, MySQL, Node.js  
+- 📫 How to reach me: harshita.dev@gmail.com  
+- ⚡ Fun fact: Debugging is like being a detective in a crime movie
 
+---
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/rharshit82/7Book/main/screenshot.png" 
-alt="7Book Screenshot" width="535" height="600" border="10" />
+### 🛠️ Languages and Tools:
 
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
-## Requirements
-To run this app, npm has to be installed
+---
 
-# How to Run
-To Install packages,
-Run ```npm install``` in Terminal from Root directory. <br>
-and Run ```npm install --prefix client``` in Terminal from Root directory. <br>
+### 📊 GitHub Stats
 
-To start the app, run ```npm start``` in Terminal from Root Directory.
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrshitaSingh&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitasingh21/)
